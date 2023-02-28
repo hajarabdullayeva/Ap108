@@ -1,0 +1,14 @@
+Create new repo
+1. git init
+2. git add . or (added project file)
+3. git commit -m "my commit"
+4. git branch -M main
+5. git remote origin add "url"
+6. git push -u origin main
+
+
+
+Update a folder 
+1. git add . 
+2. git commit -m "commit message"
+3. git push 
