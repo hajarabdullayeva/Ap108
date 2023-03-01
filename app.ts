@@ -1,1 +1,2 @@
-let a: int ;
+let a: int;
+console.log("Hello world");
